@@ -1791,6 +1791,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 61ea2e9e-5dc2-440e-938d-a9ef0f729587)
   )
+  (text "This is the daughterboard which performs lights and input"
+    (at 180.34 170.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 784f2ed4-8f1b-4283-9869-b3ecce1e695e)
+  )
   (text "SCK" (at 186.69 127 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f202e689-af9a-4cd1-8b0a-329235117a8c)
