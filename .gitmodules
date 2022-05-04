@@ -1,0 +1,3 @@
+[submodule "kicad-lib-arduino"]
+	path = kicad-lib-arduino
+	url = https://github.com/g200kg/kicad-lib-arduino.git
